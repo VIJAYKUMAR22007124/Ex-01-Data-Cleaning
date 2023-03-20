@@ -19,4 +19,33 @@ Remove the null values from the data
 Save the Clean data to the file
 
 # CODE
+``` 
+import pandas as pd
+df = pd.read_csv("Loan_data.csv")
+print(df)
+
+df.head(5)
+
+df.describe()
+
+df.info()
+
+df.tail()
+
+df.shape
+
+df.columns
+
+df.isnull().sum()
+
+df=df[~df.duplicated()]
+print(df)
+
+df.dropna()
+df.dropna(axis=1)
+
+df.fillna()
+
+```
+
 # OUPUT
