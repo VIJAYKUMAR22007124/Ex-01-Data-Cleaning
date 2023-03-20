@@ -48,6 +48,33 @@ df.fillna()
 
 ```
 
-# OUTPUT:
+# OUTPUT
 ![Screenshot (218)](https://user-images.githubusercontent.com/119657657/226257595-94a889fd-8fa1-4621-933f-d788b5af9ede.png)
+
+![Screenshot (219)](https://user-images.githubusercontent.com/119657657/226258739-2e32b25a-4a62-4ce9-9b52-c112a91133ee.png)
+
+![Screenshot (220)](https://user-images.githubusercontent.com/119657657/226258808-456f6482-0e9b-474d-834a-2e23e3225d7e.png)
+
+![Screenshot (221)](https://user-images.githubusercontent.com/119657657/226258871-4ddbf4b4-0ca7-44d1-9100-c616750f7701.png)
+
+![Screenshot (222)](https://user-images.githubusercontent.com/119657657/226258928-5d676416-a089-4a1f-9f72-a3f96bd8edee.png)
+
+![Screenshot (223)](https://user-images.githubusercontent.com/119657657/226259015-172b7c6e-fb27-403b-a628-d413d107d06b.png)
+
+![Screenshot (224)](https://user-images.githubusercontent.com/119657657/226259084-4d1067e0-2ff9-4f4a-a57d-429b8c4da4e6.png)
+
+![Screenshot 2023-03-20 111416](https://user-images.githubusercontent.com/119657657/226259161-fd7d058b-a86d-45a2-a47d-fab2e8af8074.png)
+
+![Screenshot (225)](https://user-images.githubusercontent.com/119657657/226259202-e01eddc8-9f87-40b9-b1b1-26440eaf9254.png)
+
+#RESULT
+
+The given Data is read and performed with data cleaning process and the cleaned file is saved.
+
+
+
+
+
+
+
 
