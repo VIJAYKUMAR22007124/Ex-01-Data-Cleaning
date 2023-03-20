@@ -48,4 +48,6 @@ df.fillna()
 
 ```
 
-# OUPUT
+# OUTPUT:
+![Screenshot (218)](https://user-images.githubusercontent.com/119657657/226257595-94a889fd-8fa1-4621-933f-d788b5af9ede.png)
+
